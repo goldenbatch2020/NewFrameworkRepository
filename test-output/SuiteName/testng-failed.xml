@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteName]">
+  <test name="TestRunner(failed)">
+    <classes>
+      <class name="com.nbrown.TestScenarios.JDW.Src_SearchProduct_102345_JDW">
+        <methods>
+          <include name="init"/>
+          <include name="searchProductTest"/>
+        </methods>
+      </class> <!-- com.nbrown.TestScenarios.JDW.Src_SearchProduct_102345_JDW -->
+    </classes>
+  </test> <!-- TestRunner(failed) -->
+</suite> <!-- Failed suite [SuiteName] -->
